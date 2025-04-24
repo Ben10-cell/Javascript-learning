@@ -1,3 +1,3 @@
-#just a file
+Welcome to A new dev , Dev JSM
+Hello Github I am learning how to use Git
 
-added a new feature and add more to the read me broksi
